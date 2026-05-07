@@ -31,7 +31,7 @@ Since this project consists entirely of static files, no build tools, package ma
 
 3. Open index.html in any modern web browser (Chrome, Firefox, Edge, Safari).
 
-👨‍💻 Author
+## 👨‍💻 Author
 Yassine Abid Data Science, Big Data & AI Engineering Student
 
 GitHub: https://github.com/JSN-Y
